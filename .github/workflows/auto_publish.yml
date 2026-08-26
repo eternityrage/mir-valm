@@ -45,7 +45,6 @@ jobs:
           echo ""
           echo "=== CRITICAL SECRETS (Required) ==="
           critical_secrets=(
-            "POLLINATIONS_API_KEY"
           )
 
           critical_missing=0
@@ -61,6 +60,7 @@ jobs:
           echo ""
           echo "=== OPTIONAL SECRETS (Will skip if missing) ==="
           optional_secrets=(
+            "POLLINATIONS_API_KEY"
             "DROPBOX_APP_KEY"
             "DROPBOX_APP_SECRET"
             "DROPBOX_REFRESH_TOKEN"
