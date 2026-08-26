@@ -1,1 +1,18 @@
-﻿[]
+[
+    {
+        "video_name": "grok-video-a19b1d1b-0865-4f26-804c-255a33c7d59c (2).mp4",
+        "metadata": {
+            "title": "Soft Glam Makeup for an Elegant Evening Out",
+            "description": "Travel adventures don't need to be far to be magical. A new caf\u00e9, a different street, a slower pace \u2014 explore close to home. Share this with a travel buddy! \ud83d\uddfa\ufe0f #travel #adventure #explore #local #mirelle",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
+    }
+]
