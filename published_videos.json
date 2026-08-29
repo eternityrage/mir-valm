@@ -142,5 +142,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-a19b1d1b-0865-4f26-804c-255a33c7d59c (3).mp4",
+        "metadata": {
+            "title": "Mirelle Escapes: Where Timeless Style Meets New Horizons",
+            "description": "Picture yourself stepping out at golden hour\u2014your bag packed, your outfit effortless, and the world ready to be discovered. In this short film, I take you on a travel-loving escape through airy countryside roads and beautifully unfamiliar corners, where every stop feels like a mini chapter of a story worth living. From elegant, timeless outfit details to the kind of beauty moments that boost your confidence before you even start the adventure, this is the Mirelle mindset: creative, calm, and beautifully you. Whether you\u2019re planning your next getaway or simply dreaming your way through the day, let these little moments remind you that style is more than what you wear\u2014it\u2019s how you move through the world. Like if this inspired your style! Comment your favorite look below! Share this with a friend who loves fashion! Follow Mirelle for daily fashion, beauty, and travel inspiration! #fashion #beauty #travel #style #outfit #elegance #countryside #lifestyle #mirelle",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
